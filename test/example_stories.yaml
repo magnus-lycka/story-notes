@@ -1,0 +1,21 @@
+-
+  main_text: >
+    As scrum master I want to keep _user stories_ in a _text file_,
+    so that it's easy to version control and possible to use
+    both as is and programatically without tool lock-in.
+  acc_crit_list:
+    - Use a plain text based standardized format
+    - Not XML!
+  size: 1
+  sprint: [sprint1]
+-
+  main_text: >
+    As team member I want to see updated _user stories displayed_
+    on the scrum board, so that I know what we need to do in the
+    sprint.
+  acc_crit_list:
+    - No need to decipher bad hand-writing
+    - A piece of paper which I can move and add notes to.
+  size: 2
+  sprint: [sprint2]
+
